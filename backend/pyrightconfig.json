@@ -1,0 +1,7 @@
+cat > ~/projects/incident-triage/backend/pyrightconfig.json << 'EOF'
+{
+  "venvPath": ".",
+  "venv": "venv",
+  "pythonVersion": "3.12"
+}
+EOF
